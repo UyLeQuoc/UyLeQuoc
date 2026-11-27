@@ -1,38 +1,35 @@
-<h1 align="center">Hi 👋, My name Le Quoc Uy</h1>
-<h3 align="center">Full-stack Developer</h3>
+# Le Quoc Uy
 
-<div align=center>
-  <a href="https://app.daily.dev/SatoshiUy"><img src="https://api.daily.dev/devcards/19ea3628b9954147bf79cdf15341ea32.png?r=3ya" width="400" alt="Le Quoc Uy's Dev Card"/></a>
-</div>
+**Full-stack engineer · LLM & AI agents · Sui & Walrus**
 
-* 🌍  I'm based in Việt Nam
-* 🖥️  See my portfolio at [uydev.id.vn](http://uydev.id.vn/)
-* ✉️  You can contact me at [lequocuyit@gmail.com](mailto:lequocuyit@gmail.com)
-* 🚀  I'm currently working on [Cifarm](http://github.com/starci-lab/cifarm-containers)
-* 🧠  I'm learning Kubernetes
-* 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://www.dev.to/uylequoc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/uyledev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/UyLeQuoc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/uyle-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@UyDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a>
-<a href="https://discord.gg/UyLe#5214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UyLe#5214" height="30" width="40" /></a>
-</p>
+I'm a Full-Stack Engineer at CommandOSS (Mysten Labs Vietnam) in Ho Chi Minh City. I build LLM and AI-agent products end to end: MCP servers and plugins, agent memory, tool-calling agents, and the tests and evals that check them.
 
-### Skills
+[LinkedIn](https://www.linkedin.com/in/uydev) · [Portfolio](https://uydev.vercel.app) · [lequocuyit@gmail.com](mailto:lequocuyit@gmail.com)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+## At CommandOSS
 
-### My Github Stats
-  ![Satoshi Uy's GitHub stats](https://github-readme-stats.vercel.app/api?username=UyLeQuoc&theme=tokyonight)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UyLeQuoc&theme=dark&mode=weekly&background=1A1B27&sideLabels=38BDAE&dates=38BDAE&sideNums=5F8BD5&currStreakNum=5F8BD5)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UyLeQuoc&theme=tokyonight)
+- **[MillionTPS](https://www.sui.io/blog/sui-processes-over-6-million-transactions-per-second-in-ai-agent-livestream-experiment)**: the public app for Sui Tunnels' throughput runs: 40.6M TPS at Sui Basecamp 2026 ([verified by CertiK](https://www.certik.com/blog/certik-independently-verifies-suis-new-performance-benchmark)) and 6.09M TPS at the July livestream. I was the largest frontend contributor to the July version (Google sign-in with sponsored gas, a Web Worker tunnel engine).
+- **[Walrus Memory](https://github.com/MystenLabs/walrus-memory)** (open source): rewrote the MCP tools so agents save and recall memory on their own, and built the automatic-memory plugin for Claude Code, Codex, Cursor and Antigravity.
+- **Dopamint Arena**: LLM agents play poker on Sui. Top committer to the web app: cut 3D GPU memory from 415 to 150 MB and built the Open league that outside agents join on their own.
+- **AI Video Maker**: Claude Code turns a code repo into a product video. I built the video engine, the agent review loop and a Rust renderer 3.2× faster than Chromium.
+- **[cmdocs](https://cmdocs.sh)** (first engineer) and **[wal-0](https://wal-0.commandoss.com)** (pay-per-prompt billing), both deploying to Walrus.
 
-### Support Me
+Company repos are private, so the links above go to public pages.
 
-<ul style="list-style-type: none; margin: 0;">
+## Hackathons
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/uydev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+| Project | What it is | Result |
+| --- | --- | --- |
+| [WalForm](https://github.com/UyLeQuoc/sui-walform) | Encrypted form builder on Sui mainnet. It became the entry form for Walrus Sessions 3–8. | 1st, Walrus Session 2 |
+| [Continuum v2](https://github.com/UyLeQuoc/walrus-session-7) | A privacy-safe, deterministic memory prompt on Walrus. | 1st, Walrus Session 7 |
+| [hippo](https://github.com/UyLeQuoc/walrus-session-8-chatbots) | A chatbot with user-owned memory on Walrus. Cut median first-reply recall from 3.76 s to 1.97 s. | 2nd, Walrus Session 8 |
+| [Remora](https://github.com/UyLeQuoc/walrus-session-10-remora) | An agent whose spending limit is enforced on Sui. A 28-case red-team eval runs in CI with 0 overspends. | Walrus × Tatum Total Recall |
+| [Flicky](https://github.com/nikola0x0/flicky) | PvP prediction duels on DeepBook (team of 3, I did most of the backend). | 4th, DeepBook track, Sui Overflow 2026 |
 
-</ul>
+Also 1st place in Walrus Session 1 (my portfolio as a Walrus Site) and Session 9 (RedSentinel red-teaming).
 
+## How I work
+
+I write the spec first, build with Claude Code under repo rules I write (AGENTS.md, skills), and ship each change with tests, CI and a measured before/after. Where an LLM makes the decision, an eval suite gates the merge.
+
+**Stack:** TypeScript, React, Next.js, Node.js / Bun, Hono, PostgreSQL, Rust, Vercel AI SDK, OpenRouter, MCP, Claude Code, Sui, Walrus.
