@@ -18,7 +18,7 @@ Company repos are private, so the links above go to public pages.
 
 ## Side project
 
-- **[walrus-docs-rag](https://github.com/UyLeQuoc/walrus-docs-rag)** (Python, FastAPI): question answering over the Walrus docs with hybrid retrieval (BM25 + embeddings, fused with RRF) and cited answers. An eval set of 82 labelled questions gates CI. Hybrid retrieval reaches 0.95 recall@5, and on paraphrased questions 0.76 vs 0.53 for BM25 alone.
+- **[walrus-docs-rag](https://github.com/UyLeQuoc/walrus-docs-rag)** (Python, FastAPI): question answering over the Walrus docs with hybrid retrieval (BM25 + embeddings, fused with RRF) and cited answers. An eval set of 82 labelled questions gates CI. Hybrid retrieval reaches 0.95 recall@5, and on 17 paraphrased questions 0.76 vs 0.53 for BM25 alone.
 
 ## Hackathons
 
